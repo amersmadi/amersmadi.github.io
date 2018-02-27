@@ -11,19 +11,19 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>https://mardawi.github.io/creatopia/Creatopia.ipa</string>
+                                        <string>https://amersmadi.github.io/JR/JarirBookstore.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>co.yaqut.creatopiaapp</string>
+                                <string>com.jarirbookstore.JBMarketingApp</string>
                                 <key>bundle-version</key>
-                                <string>1.5</string>
+                                <string>4.3.1</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>Creatopia</string>
+                                <string>Jarir.com</string>
                         </dict>
                 </dict>
         </array>
